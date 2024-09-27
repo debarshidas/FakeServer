@@ -81,7 +81,7 @@
       "organizationId": 1
     }
   ],
-  [
+  "organizations": [
     {
       "createdAt": "2024-08-02T17:36:28.076Z",
       "name": "Toy, Shields and Ziemann",
