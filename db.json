@@ -1,8 +1,89 @@
 {
-  "posts": [
+  "organizations": [
     {
       "id": 1,
-      "title": "hello"
+      "users": [
+        {
+          "createdAt": "2024-08-11T11:46:25.501Z",
+          "name": "Benny Koepp",
+          "email": "Delphine.Gulgowski27@yahoo.com",
+          "phone": "(368) 447-9211",
+          "modifiedAt": "2024-08-11T06:51:05.942Z",
+          "emailVerified": false,
+          "status": false,
+          "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1042.jpg",
+          "createdBy": 32,
+          "modifiedBy": 70,
+          "isAdmin": false,
+          "uniqueId": "1",
+          "id": "1",
+          "organizationId": "1"
+        },
+        {
+          "createdAt": "2024-08-11T11:24:37.056Z",
+          "name": "Wanda Kerluke",
+          "email": "Cecile.Dietrich87@gmail.com",
+          "phone": "1-768-651-5422",
+          "modifiedAt": "2024-08-10T19:18:45.972Z",
+          "emailVerified": false,
+          "status": false,
+          "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/891.jpg",
+          "createdBy": 75,
+          "modifiedBy": 1,
+          "isAdmin": false,
+          "uniqueId": "9",
+          "id": "5",
+          "organizationId": "1"
+        },
+        {
+          "createdAt": "2024-08-10T19:38:46.244Z",
+          "name": "Mr. Milton Ratke",
+          "email": "Carlee.Hartmann@hotmail.com",
+          "phone": "710.731.1443 x07415",
+          "modifiedAt": "2024-08-11T11:01:47.915Z",
+          "emailVerified": false,
+          "status": false,
+          "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1029.jpg",
+          "createdBy": 21,
+          "modifiedBy": 34,
+          "isAdmin": false,
+          "uniqueId": "h",
+          "id": "8",
+          "organizationId": "1"
+        },
+        {
+          "createdAt": "2024-08-10T23:39:07.977Z",
+          "name": "Annette Deckow",
+          "email": "Emma8@yahoo.com",
+          "phone": "1-904-417-4638",
+          "modifiedAt": "2024-08-10T17:23:12.731Z",
+          "emailVerified": false,
+          "status": false,
+          "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/475.jpg",
+          "createdBy": 90,
+          "modifiedBy": 88,
+          "isAdmin": false,
+          "uniqueId": "e",
+          "id": "12",
+          "organizationId": "1"
+        },
+        {
+          "createdAt": "2024-08-10T15:24:58.729Z",
+          "name": "Charles Rosenbaum",
+          "email": "Cesar_Prohaska@yahoo.com",
+          "phone": "1-255-540-1329 x277",
+          "modifiedAt": "2024-08-11T03:44:29.811Z",
+          "emailVerified": false,
+          "status": false,
+          "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1073.jpg",
+          "createdBy": 27,
+          "modifiedBy": 7,
+          "isAdmin": false,
+          "uniqueId": "2",
+          "id": "16",
+          "organizationId": "1"
+        }
+      ]
     }
   ],
   "profile": {
