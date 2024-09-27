@@ -1,92 +1,198 @@
 {
-  "organizations": [
+  "users": [
     {
+      "createdAt": "2024-08-11T11:46:25.501Z",
+      "name": "Benny Koepp",
+      "email": "Delphine.Gulgowski27@yahoo.com",
+      "phone": "(368) 447-9211",
+      "modifiedAt": "2024-08-11T06:51:05.942Z",
+      "emailVerified": false,
+      "status": false,
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1042.jpg",
+      "createdBy": 32,
+      "modifiedBy": 70,
+      "isAdmin": false,
+      "uniqueId": "1",
       "id": 1,
-      "users": [
-        {
-          "createdAt": "2024-08-11T11:46:25.501Z",
-          "name": "Benny Koepp",
-          "email": "Delphine.Gulgowski27@yahoo.com",
-          "phone": "(368) 447-9211",
-          "modifiedAt": "2024-08-11T06:51:05.942Z",
-          "emailVerified": false,
-          "status": false,
-          "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1042.jpg",
-          "createdBy": 32,
-          "modifiedBy": 70,
-          "isAdmin": false,
-          "uniqueId": "1",
-          "id": 1,
-          "organizationId": 1
-        },
-        {
-          "createdAt": "2024-08-11T11:24:37.056Z",
-          "name": "Wanda Kerluke",
-          "email": "Cecile.Dietrich87@gmail.com",
-          "phone": "1-768-651-5422",
-          "modifiedAt": "2024-08-10T19:18:45.972Z",
-          "emailVerified": false,
-          "status": false,
-          "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/891.jpg",
-          "createdBy": 75,
-          "modifiedBy": 1,
-          "isAdmin": false,
-          "uniqueId": "9",
-          "id": 5,
-          "organizationId": 1
-        },
-        {
-          "createdAt": "2024-08-10T19:38:46.244Z",
-          "name": "Mr. Milton Ratke",
-          "email": "Carlee.Hartmann@hotmail.com",
-          "phone": "710.731.1443 x07415",
-          "modifiedAt": "2024-08-11T11:01:47.915Z",
-          "emailVerified": false,
-          "status": false,
-          "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1029.jpg",
-          "createdBy": 21,
-          "modifiedBy": 34,
-          "isAdmin": false,
-          "uniqueId": "h",
-          "id": 8,
-          "organizationId": 1
-        },
-        {
-          "createdAt": "2024-08-10T23:39:07.977Z",
-          "name": "Annette Deckow",
-          "email": "Emma8@yahoo.com",
-          "phone": "1-904-417-4638",
-          "modifiedAt": "2024-08-10T17:23:12.731Z",
-          "emailVerified": false,
-          "status": false,
-          "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/475.jpg",
-          "createdBy": 90,
-          "modifiedBy": 88,
-          "isAdmin": false,
-          "uniqueId": "e",
-          "id": 12,
-          "organizationId": 1
-        },
-        {
-          "createdAt": "2024-08-10T15:24:58.729Z",
-          "name": "Charles Rosenbaum",
-          "email": "Cesar_Prohaska@yahoo.com",
-          "phone": "1-255-540-1329 x277",
-          "modifiedAt": "2024-08-11T03:44:29.811Z",
-          "emailVerified": false,
-          "status": false,
-          "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1073.jpg",
-          "createdBy": 27,
-          "modifiedBy": 7,
-          "isAdmin": false,
-          "uniqueId": "2",
-          "id": 16,
-          "organizationId": 1
-        }
-      ]
+      "organizationId": 1
+    },
+    {
+      "createdAt": "2024-08-11T11:24:37.056Z",
+      "name": "Wanda Kerluke",
+      "email": "Cecile.Dietrich87@gmail.com",
+      "phone": "1-768-651-5422",
+      "modifiedAt": "2024-08-10T19:18:45.972Z",
+      "emailVerified": false,
+      "status": false,
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/891.jpg",
+      "createdBy": 75,
+      "modifiedBy": 1,
+      "isAdmin": false,
+      "uniqueId": "9",
+      "id": 5,
+      "organizationId": 1
+    },
+    {
+      "createdAt": "2024-08-10T19:38:46.244Z",
+      "name": "Mr. Milton Ratke",
+      "email": "Carlee.Hartmann@hotmail.com",
+      "phone": "710.731.1443 x07415",
+      "modifiedAt": "2024-08-11T11:01:47.915Z",
+      "emailVerified": false,
+      "status": false,
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1029.jpg",
+      "createdBy": 21,
+      "modifiedBy": 34,
+      "isAdmin": false,
+      "uniqueId": "h",
+      "id": 8,
+      "organizationId": 1
+    },
+    {
+      "createdAt": "2024-08-10T23:39:07.977Z",
+      "name": "Annette Deckow",
+      "email": "Emma8@yahoo.com",
+      "phone": "1-904-417-4638",
+      "modifiedAt": "2024-08-10T17:23:12.731Z",
+      "emailVerified": false,
+      "status": false,
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/475.jpg",
+      "createdBy": 90,
+      "modifiedBy": 88,
+      "isAdmin": false,
+      "uniqueId": "e",
+      "id": 12,
+      "organizationId": 1
+    },
+    {
+      "createdAt": "2024-08-10T15:24:58.729Z",
+      "name": "Charles Rosenbaum",
+      "email": "Cesar_Prohaska@yahoo.com",
+      "phone": "1-255-540-1329 x277",
+      "modifiedAt": "2024-08-11T03:44:29.811Z",
+      "emailVerified": false,
+      "status": false,
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1073.jpg",
+      "createdBy": 27,
+      "modifiedBy": 7,
+      "isAdmin": false,
+      "uniqueId": "2",
+      "id": 16,
+      "organizationId": 1
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  [
+    {
+      "createdAt": "2024-08-02T17:36:28.076Z",
+      "name": "Toy, Shields and Ziemann",
+      "modifiedAt": "2024-08-03T03:46:39.638Z",
+      "createdBy": 8,
+      "modifiedBy": 8,
+      "id": "1"
+    },
+    {
+      "createdAt": "2024-08-03T07:05:52.824Z",
+      "name": "O'Reilly, Anderson and Bayer",
+      "modifiedAt": "2024-08-02T18:03:19.574Z",
+      "createdBy": 70,
+      "modifiedBy": 64,
+      "id": "2"
+    },
+    {
+      "createdAt": "2024-08-02T22:24:45.117Z",
+      "name": "O'Conner - Hauck",
+      "modifiedAt": "2024-08-02T20:16:04.376Z",
+      "createdBy": 46,
+      "modifiedBy": 76,
+      "id": "3"
+    },
+    {
+      "createdAt": "2024-08-02T10:22:42.199Z",
+      "name": "Boyer - Murazik",
+      "modifiedAt": "2024-08-03T05:03:01.174Z",
+      "createdBy": 49,
+      "modifiedBy": 24,
+      "id": "4"
+    },
+    {
+      "createdAt": "2024-09-22T10:07:48.734Z",
+      "name": "Bednar and Sons",
+      "modifiedAt": "2024-09-22T06:28:33.764Z",
+      "createdBy": 35,
+      "modifiedBy": 29,
+      "id": "5"
+    },
+    {
+      "createdAt": "2024-09-22T01:53:17.117Z",
+      "name": "Davis - Brown",
+      "modifiedAt": "2024-09-22T06:37:56.015Z",
+      "createdBy": 32,
+      "modifiedBy": 39,
+      "id": "6"
+    },
+    {
+      "createdAt": "2024-09-21T20:07:37.560Z",
+      "name": "D'Amore, D'Amore and Satterfield",
+      "modifiedAt": "2024-09-22T11:29:12.449Z",
+      "createdBy": 87,
+      "modifiedBy": 98,
+      "id": "7"
+    },
+    {
+      "createdAt": "2024-09-22T06:26:16.643Z",
+      "name": "Waters - Rolfson",
+      "modifiedAt": "2024-09-21T16:19:27.359Z",
+      "createdBy": 48,
+      "modifiedBy": 28,
+      "id": "8"
+    },
+    {
+      "createdAt": "2024-09-22T05:58:31.682Z",
+      "name": "Schroeder Inc",
+      "modifiedAt": "2024-09-21T22:52:51.164Z",
+      "createdBy": 4,
+      "modifiedBy": 1,
+      "id": "9"
+    },
+    {
+      "createdAt": "2024-09-22T09:39:47.609Z",
+      "name": "Reynolds, Schulist and Rice",
+      "modifiedAt": "2024-09-22T05:39:25.435Z",
+      "createdBy": 84,
+      "modifiedBy": 25,
+      "id": "10"
+    },
+    {
+      "createdAt": "2024-09-21T18:40:15.068Z",
+      "name": "Reinger Inc",
+      "modifiedAt": "2024-09-22T00:56:08.092Z",
+      "createdBy": 62,
+      "modifiedBy": 2,
+      "id": "11"
+    },
+    {
+      "createdAt": "2024-09-22T07:08:28.901Z",
+      "name": "Witting, Stanton and Feest",
+      "modifiedAt": "2024-09-21T20:31:11.248Z",
+      "createdBy": 59,
+      "modifiedBy": 79,
+      "id": "12"
+    },
+    {
+      "createdAt": "2024-09-22T04:28:38.471Z",
+      "name": "Corwin, Abernathy and Hayes",
+      "modifiedAt": "2024-09-22T08:49:12.265Z",
+      "createdBy": 43,
+      "modifiedBy": 15,
+      "id": "13"
+    },
+    {
+      "createdAt": "2024-09-22T05:19:36.906Z",
+      "name": "Wuckert, Romaguera and Harber",
+      "modifiedAt": "2024-09-22T04:21:07.138Z",
+      "createdBy": 88,
+      "modifiedBy": 24,
+      "id": "14"
+    }
+  ]
 }
